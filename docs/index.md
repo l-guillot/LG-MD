@@ -4,7 +4,7 @@ Scroll to see content
 
 ###Edited Sketchy Images
 
-![Salmonella](Images/IMG_1141.jpg)
+![Salmonella](Images/IMG_1141.jpg?raw=true "Sketchy Micro Salmonella updated")
 - added cat (excuse the derp) -> catalase positive
 
 
