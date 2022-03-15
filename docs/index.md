@@ -4,7 +4,7 @@ Scroll to see content
 
 ###Edited Sketchy Images
 
-![Salmonella](https://github.com/l-guillot/LG-MD/blob/8e1c20b0e4b78d96ae9fa5365431efc8a57674f6/Images/salmonella.JPEG)
+![Salmonella](https://github.com/l-guillot/LG-MD/blob/619b75ec588e7541a67328bca3e60e0239a2ac8e/Images/IMG_1141.jpg)
 - added cat (excuse the derp) -> catalase positive
 
 
