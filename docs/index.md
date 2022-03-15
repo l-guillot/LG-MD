@@ -4,7 +4,7 @@ Scroll to see content
 
 ###Edited Sketchy Images
 
-![Salmonella](https://github.com/l-guillot/LG-MD/blob/550fad022a219b776ef1c4669143a218c2875f6c/Images/IMG_1141.jpg?raw=true "Sketchy Micro Salmonella updated")
+![Salmonella](https://github.com/l-guillot/LG-MD/blob/7805195d1375317aee259e4704f966e234efcc0c/Images/salmonella.jpg?raw=true "Sketchy Micro Salmonella updated")
 - added cat (excuse the derp) -> catalase positive
 
 
