@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my notes
 
 Please use the following links to navigate:
 
