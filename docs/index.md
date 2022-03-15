@@ -2,4 +2,4 @@
 
 Please use the following links to navigate:
 
-(Sketchy Micro)[docs/Sketchy Micro.md]
+[Sketchy Micro](docs/Sketchy Micro.md)
