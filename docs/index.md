@@ -3,6 +3,7 @@
 Scroll to see content 
 
 ###Edited Sketchy Images
+Please note: all images are credited to Sketchy Med - so please don't get mad at me
 
 ![Salmonella](https://github.com/l-guillot/LG-MD/blob/7805195d1375317aee259e4704f966e234efcc0c/Images/salmonella.jpg?raw=true "Sketchy Micro Salmonella updated")
 - added cat (excuse the derp) -> catalase positive
